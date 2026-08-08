@@ -1,0 +1,30 @@
+{
+  "name": "meipaly-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -H 0.0.0.0 -p $PORT"
+  },
+  "dependencies": {
+    "@img-comparison-slider/react": "^7.1.1",
+    "bootstrap": "^4.6.0",
+    "instagram-web-api": "^2.2.2",
+    "next": "^10.2.3",
+    "next-images": "^1.7.0",
+    "nodemailer": "^6.6.3",
+    "react": "17.0.1",
+    "react-bootstrap": "^1.4.3",
+    "react-countup": "^4.3.3",
+    "react-dom": "17.0.1",
+    "react-modal-video": "^1.2.6",
+    "react-scroll": "^1.8.1",
+    "react-visibility-sensor": "^5.1.1",
+    "swiper": "^6.4.6",
+    "typeface-oswald": "^1.1.13"
+  }
+}
