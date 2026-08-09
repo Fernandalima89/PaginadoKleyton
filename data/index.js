@@ -1013,7 +1013,7 @@ import aboutTwo02 from "@/images/home_1/1.jpg";
 export const AboutTwoData = {
     sectionContent: {
         title: "We understand quality detailing over quantity",
-        subTitle: "welcom to strong arm detail",
+        subTitle: "welcome to strong arm detail",
         text:
             "Strong Arm Detail believes detailing and paint reconditioning are not just an advanced skills, but the truest form of art and passion to restore and renew the beauty of each vehicle.  We use only the highest quality products and equipment combined with unparalleled techniques to perfect and protect your car.  whatever your detailing needs, Strong Arm Detail aims to provide only the most meticulous, careful, and complete job to far"
     },
